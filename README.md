@@ -6,5 +6,6 @@
 <div align="center">
   <a href="https://github.com/edniltonmatos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edniltonmatos&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edniltonmatos&langs_count = 8&theme=vue"/
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edniltonmatos&langs_count = 8&theme=vue"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin?edniltonmatos=anuraghazra&repo=github-readme-stats
 </div>
