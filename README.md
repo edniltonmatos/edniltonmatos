@@ -1,5 +1,6 @@
-### olá, me chamo ednilton. como posso te ajudar? ###
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+
+### olá, me chamo ednilton. como posso te ajudar? ###
 
 - 🔭 trabalhando atualmente como freelancer desenvolvendo sites simples, apenas com aplicações front-end.
 
