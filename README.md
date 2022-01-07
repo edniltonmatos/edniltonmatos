@@ -1,13 +1,19 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
-### olá, me chamo ednilton. como posso te ajudar? ###
+### olá, me chamo ednilton. sou desenvolvedor front-end. como posso te ajudar? ###
 
-- 🔭 trabalhando atualmente como freelancer desenvolvendo sites simples, apenas com aplicações front-end.
+<p align="left">
+  🤔 Habilidades: <strong>HTML, CSS, JavaScript e estudando typescript.</strong>
+</p>
 
-- 🌱 praticando css, html e javascrip afim de ter uma base sólida.
+<p align="left">
+  🔨 Ferramentas: <strong>VSCode, Trello, Vercel, Git e GitHub.</strong>
+</p>
 
-- 🤔 estou a procura de aprendizado, seja aplicando coisas novas, melhorando o meu código ou lendo o de outros.
-
+<p align="left">
+  📄 Se você deseja bater um papo comigo, não hesite em me enviar uma mensagem.
+</p>
+<p>"Se você traçar metas absurdamente altas e falhar, seu fracasso será muito melhor que o sucesso de todos" – James Cameron</p>
 
 <a href="https://www.linkedin.com/in/edniltonmatos/" target="_blank">
   <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=f26b4e&link=https://www.linkedin.com/in/iuricode" target="_blank">
