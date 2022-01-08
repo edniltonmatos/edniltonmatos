@@ -1,6 +1,6 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+<h1 align="center"> olá, me chamo ednilton. sou desenvolvedor front-end. como posso te ajudar?</h1>
 
-### olá, me chamo ednilton. sou desenvolvedor front-end. como posso te ajudar? ###
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <p align="left">
   🤔 Habilidades: <strong>HTML, CSS, JavaScript e estudando typescript.</strong>
