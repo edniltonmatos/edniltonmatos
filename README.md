@@ -1,7 +1,7 @@
 
 
 <img src="https://github.com/edniltonmatos/edniltonmatos/blob/main/coding.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
-<h1 align="center"> olá, me chamo ednilton e sou um estudante de desenvolvimento front-end.</h1>
+<h2 align="center"> Olá, me chamo ednilton. Sou um desenvolvimento front-end. Em que posso te ajudar?</h2>
 <p align="left">
   🤔 Habilidades: <strong>HTML, CSS, JavaScript e estudando typescript.</strong>
 </p>
