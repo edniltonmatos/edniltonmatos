@@ -15,11 +15,11 @@
 :love_letter: caso queira conversar...
 
 <p align="left">
-  <a href="https://www.instagram.com/edniltonmatos/" alt="Instagram">
+  <a href="https://www.instagram.com/ednilton.matos/" alt="Instagram" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-9358F7?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/iuricode"/>
   </a>
   
-  <a href="https://www.linkedin.com/in/edniltonmatos" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/edniltonmatos" alt="Linkedin" target="_blank">
     <img src="https://img.shields.io/badge/-Linkedin-9358F7?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/iuricode"/>
   </a>
 </p>
