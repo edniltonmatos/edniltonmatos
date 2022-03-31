@@ -1,6 +1,6 @@
-<img src="computer.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="computer">
-
 # Olá, meu nome é Ednilton Matos!
+
+<img src="computer.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="computer">
 
 > Tenho o sonho de tranformar o Brasil no país mais tecnológico do mundo.
 
