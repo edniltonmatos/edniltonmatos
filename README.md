@@ -16,15 +16,15 @@
 
 <p align="left">
   <a href="https://www.instagram.com/iuricode/" alt="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-00D2DF?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/iuricode"/>
+    <img src="https://img.shields.io/badge/-Instagram-9358F7?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/iuricode"/>
   </a>
   
   <a href="https://www.linkedin.com/in/iuricode" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-00D2DF?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/iuricode"/>
+    <img src="https://img.shields.io/badge/-Linkedin-9358F7?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/iuricode"/>
   </a>
   
   <a href="https://discord.gg/QevDJqCzaY" alt="Discord">
-    <img src="https://img.shields.io/badge/-Discord-00D2DF?style=for-the-badge&logo=Discord&logoColor=FFFFFF&link=https://discord.gg/QevDJqCzaY"/>
+    <img src="https://img.shields.io/badge/-Discord-9358F7?style=for-the-badge&logo=Discord&logoColor=FFFFFF&link=https://discord.gg/QevDJqCzaY"/>
   </a>
 </p>
 
