@@ -2,7 +2,7 @@
 
 <img src="computer.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="computer">
 
-> Tenho o sonho de tranformar o Brasil no país mais tecnológico do mundo.
+> "Até a minha aposentadoria os Estados Unidos ira olhar para o Brasil a procura de referências com relação à tecnologia" - Ednilton Matos.
 
 ### sobre mim
 
