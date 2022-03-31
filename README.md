@@ -6,13 +6,15 @@
 
 ### sobre mim
 
-:computer: Tecnologias: HTML5, CSS3, JavaScript e Git.
+:computer: **Tecnologias:** HTML5, CSS3, JavaScript e Git.
 
-:wrench: Ferramentas: VS Code, Notion, Trello, Figma e Vercel.
+:wrench: **Ferramentas:** VS Code, Notion, Trello, Figma e Vercel.
 
-:mortar_board: Estudando: Node.
+:mortar_board: **Estudando:** Node.
 
 :love_letter: caso queira conversar...
+
+</br>
 
 <p align="left">
   <a href="https://www.instagram.com/iuricode/" alt="Instagram">
