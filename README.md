@@ -14,8 +14,6 @@
 
 :love_letter: caso queira conversar...
 
-</br>
-
 <p align="left">
   <a href="https://www.instagram.com/iuricode/" alt="Instagram">
     <img src="https://img.shields.io/badge/-Instagram-9358F7?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/iuricode"/>
