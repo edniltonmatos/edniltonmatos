@@ -1,6 +1,6 @@
 <img src="computer.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="computer">
 
-## Olá, meu nome é Ednilton Matos!
+# Olá, meu nome é Ednilton Matos!
 
 > Tenho o sonho de tranformar o Brasil no país mais tecnológico do mundo.
 
@@ -28,4 +28,4 @@
   </a>
 </p>
 
-*"Se você traçar metas absurdamente altas e falhar, seu fracasso será muito melhor que o sucesso de todos"* – James Cameron
+**"*Se você traçar metas absurdamente altas e falhar, seu fracasso será muito melhor que o sucesso de todos"* – James Cameron**
