@@ -6,7 +6,7 @@
 
 ### sobre mim
 
-:computer: **Conhecimentos:** HTML5, CSS3, JavaScript, Git e markdown, node.
+:computer: **Conhecimentos:** HTML5, CSS3, JavaScript, Git, markdown e node.
 
 :wrench: **Ferramentas:** VS Code, Notion, Trello, Figma e Vercel.
 
