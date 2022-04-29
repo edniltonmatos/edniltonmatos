@@ -1,6 +1,7 @@
 # Olá, meu nome é Ednilton Matos!
 
-<img src="computer.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="computer">
+
+<img src="https://user-images.githubusercontent.com/96772358/166064328-5d370749-9064-4e65-86bb-5b238074ca63.gif" min-width="300px" max-width="300px" width="300px" align="right">
 
 > "Até a minha aposentadoria os Estados Unidos ira olhar para o Brasil a procura de referências com relação à tecnologia" - Ednilton Matos.
 
@@ -16,10 +17,10 @@
 
 <p align="left">
   <a href="https://www.instagram.com/ednilton.matos/" alt="Instagram" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-9358F7?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/iuricode"/>
+    <img src="https://img.shields.io/badge/-Instagram-B527F2?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/iuricode"/>
   </a>
   
   <a href="https://www.linkedin.com/in/edniltonmatos" alt="Linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/-Linkedin-9358F7?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/iuricode"/>
+    <img src="https://img.shields.io/badge/-Linkedin-B527F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/iuricode"/>
   </a>
 </p>
