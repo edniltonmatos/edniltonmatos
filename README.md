@@ -3,8 +3,6 @@
 
 <img src="https://user-images.githubusercontent.com/96772358/166064328-5d370749-9064-4e65-86bb-5b238074ca63.gif" min-width="300px" max-width="300px" width="300px" align="right">
 
-> "Até a minha aposentadoria os Estados Unidos ira olhar para o Brasil a procura de referências com relação à tecnologia" - Ednilton Matos.
-
 ### sobre mim
 
 :computer: **Conhecimentos:** HTML5, CSS3, JavaScript, Git, markdown e node.
