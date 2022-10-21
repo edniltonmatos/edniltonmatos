@@ -1,7 +1,7 @@
 # Olá, meu nome é Ednilton Matos!
 
 
-<img src="https://user-images.githubusercontent.com/96772358/166064328-5d370749-9064-4e65-86bb-5b238074ca63.gif" min-width="300px" max-width="300px" width="300px" align="right">
+<img src="https://user-images.githubusercontent.com/96772358/166064328-5d370749-9064-4e65-86bb-5b238074ca63.gif" min-width="350px" max-width="350px" width="350px" align="right">
 
 >Se você estabelece metas ridiculamente altas e falhas, terá falhado muito acima do que os outros consideram como sucesso...
 >
