@@ -3,7 +3,10 @@
 
 <img src="https://user-images.githubusercontent.com/96772358/166064328-5d370749-9064-4e65-86bb-5b238074ca63.gif" min-width="300px" max-width="300px" width="300px" align="right">
 
-### sobre mim
+>Se você estabelece metas ridiculamente altas e falhas, terá falhado muito acima do que os outros consideram como sucesso...
+>
+>*- James Cameron*
+### Sobre mim
 
 :computer: **Conhecimentos:** HTML5, CSS3, JavaScript, Git, markdown e node.
 
