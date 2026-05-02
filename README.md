@@ -1,27 +1,43 @@
-# Olá, meu nome é Ednilton Matos!
+# Ednilton Matos
 
+**Motoboy. Criador de produto. Construindo em público.**
 
-<img src="https://user-images.githubusercontent.com/96772358/166064328-5d370749-9064-4e65-86bb-5b238074ca63.gif" min-width="325px" max-width="325px" width="325px" align="right">
+Trabalho como entregador no iFood enquanto construo apps reais para resolver problemas reais, usando IA como ferramenta principal de desenvolvimento.
 
->Se você estabelece metas ridiculamente altas e falhas, terá falhado muito acima do que os outros consideram como sucesso...
->
->*- James Cameron*
-### Sobre mim
+Sem background técnico formal. Sem investidor. Só consistência.
 
-:computer: **Conhecimentos:** HTML5, CSS3, JavaScript, Git, markdown e node.
+---
 
-:wrench: **Ferramentas:** VS Code, Notion, Trello, Figma e Vercel.
+## 🛵 Produto principal: TESP
 
-:mortar_board: **Estudando:** React Native.
+**[Tempo de Espera SP](https://t.me/tempoesperaSP_bot)** é um bot colaborativo no Telegram que ajuda entregadores a saberem o tempo de espera nos restaurantes do iFood antes de aceitar o pedido.
 
-:love_letter: caso queira conversar...
+Nasceu de um problema que eu vivo todo dia. Hoje tem usuários reais, dados reais.
+
+> 📲 Acesse: [t.me/tempoesperaSP\_bot](https://t.me/tempoesperaSP_bot)
+
+---
+
+## Stack atual
+
+**Linguagens e tecnologias:** HTML5, CSS3, JavaScript, Node.js, Git, Markdown
+
+**Ferramentas:** VS Code, Vercel, Figma, Notion
+
+**Aprendendo agora:** React e automações com IA
+
+---
+
+## Onde me encontrar
 
 <p align="left">
-  <a href="https://www.instagram.com/ednilton.matos/" alt="Instagram" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-B527F2?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/iuricode"/>
+  <a href="https://www.instagram.com/ednilton.matos/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-F5D000?style=for-the-badge&logo=Instagram&logoColor=080808"/>
   </a>
-  
-  <a href="https://www.linkedin.com/in/edniltonmatos" alt="Linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/-Linkedin-B527F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/iuricode"/>
+  <a href="https://www.linkedin.com/in/edniltonmatos" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-F5D000?style=for-the-badge&logo=Linkedin&logoColor=080808"/>
+  </a>
+  <a href="https://t.me/tempoesperaSP_bot" target="_blank">
+    <img src="https://img.shields.io/badge/-TESP Bot-F5D000?style=for-the-badge&logo=Telegram&logoColor=080808"/>
   </a>
 </p>
