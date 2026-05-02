@@ -1,30 +1,34 @@
 # Ednilton Matos
 
-**Motoboy. Criador de produto. Construindo em público.**
+**Motoboy. Criador de produto. Resolvedor de problemas.**
 
-Trabalho como entregador no iFood enquanto construo apps reais para resolver problemas reais, usando IA como ferramenta principal de desenvolvimento.
+Trabalho como entregador no iFood enquanto construo apps reais para resolver problemas reais, usando IA como ferramenta principal. Não me considero dev. Me considero alguém que pega um problema, entende ele fundo, e constrói uma solução que funciona.
 
 Sem background técnico formal. Sem investidor. Só consistência.
 
 ---
 
-## 🛵 Produto principal: TESP
+## 📱 Produto principal: TESP
 
-**[Tempo de Espera SP](https://t.me/tempoesperaSP_bot)** é um bot colaborativo no Telegram que ajuda entregadores a saberem o tempo de espera nos restaurantes do iFood antes de aceitar o pedido.
+**[Tempo de Espera SP](https://lp-tesp.vercel.app/)** é um app Android que ajuda entregadores a saberem o tempo de espera nos restaurantes do iFood antes de aceitar o pedido.
 
-Nasceu de um problema que eu vivo todo dia. Hoje tem usuários reais, dados reais.
+Nasceu de um problema que eu vivo todo dia. Hoje está na Play Store em fase de testes com usuários reais.
 
-> 📲 Acesse: [t.me/tempoesperaSP\_bot](https://t.me/tempoesperaSP_bot)
+**Quer testar?** Me manda seu e-mail no Instagram que eu te envio o link de acesso.
+
+> 🌐 [lp-tesp.vercel.app](https://lp-tesp.vercel.app/)
 
 ---
 
-## Stack atual
+## Ferramentas e conhecimentos
 
-**Linguagens e tecnologias:** HTML5, CSS3, JavaScript, Node.js, Git, Markdown
+**Linguagens:** HTML, CSS, JavaScript, Node.js, Git, Markdown, React (básico)
 
-**Ferramentas:** VS Code, Vercel, Figma, Notion
+**Aprendendo:** React Native e Kotlin
 
-**Aprendendo agora:** React e automações com IA
+**Ferramentas:** Cursor, Claude Code, Vercel, Figma, 1 Ano em 12 Semanas (meu próprio app)
+
+**Como trabalho:** uso IA pesado no dia a dia. Low code, automação, prototipagem rápida. O objetivo é sempre entregar, não impressionar.
 
 ---
 
@@ -37,7 +41,7 @@ Nasceu de um problema que eu vivo todo dia. Hoje tem usuários reais, dados reai
   <a href="https://www.linkedin.com/in/edniltonmatos" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-F5D000?style=for-the-badge&logo=Linkedin&logoColor=080808"/>
   </a>
-  <a href="https://t.me/tempoesperaSP_bot" target="_blank">
-    <img src="https://img.shields.io/badge/-TESP Bot-F5D000?style=for-the-badge&logo=Telegram&logoColor=080808"/>
+  <a href="https://lp-tesp.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/-TESP App-F5D000?style=for-the-badge&logo=Android&logoColor=080808"/>
   </a>
 </p>
